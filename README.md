@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hossein Soltani Nejad</h1>
-<h3 align="center">I'm an Android Developer with nearly 3 years of experience, dedicated to continuously developing, implementing, and adopting new technologies to maximize development efficiency and produce innovative applications and eager to learn approaches that let me do more complex things fast with as less bugs as possible. I'm passionate about my profession, hoping and trying to achieve my goals. Programming languages: Java and Kotlin.</h3>
+<h3 align="center">I'm an Android Developer with nearly 3 years of experience, dedicated to continuously developing, implementing, and adopting new technologies to maximize development efficiency and produce innovative applications and eager to learn approaches that let me do more complex things fast with as less bugs as possible. I'm passionate about my profession, hoping and trying to achieve my goals. 
+Programming languages: Java and Kotlin.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hosseinsoltaninejad&label=Profile%20views&color=0e75b6&style=flat" alt="hosseinsoltaninejad" /> </p>
 
