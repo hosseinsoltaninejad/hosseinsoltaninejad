@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hosseinsoltaninejad&label=Profile%20views&color=0e75b6&style=flat" alt="hosseinsoltaninejad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hosseinsoltaninejad" alt="hosseinsoltaninejad" /></a> </p>
 
 - 📫 How to reach me **hosseinsoltaninejad@gmail.com**
 
