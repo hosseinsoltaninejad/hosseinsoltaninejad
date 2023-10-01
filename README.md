@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hossein Soltani Nejad</h1>
-<h3 align="center">I'm an Android Developer with nearly 3 years of experience, dedicated to continuously developing, implementing, and adopting new technologies to maximize development efficiency and produce innovative applications and eager to learn approaches that let me do more complex things fast with as less bugs as possible. I'm passionate about my profession, hoping and trying to achieve my goals. Programming languages: Java and Kotlin.</h3>
+<h3 align="center">I am a highly skilled and passionate Android developer with expertise in Java and Kotlin. I specialize in custom Android app development, prioritize excellent UI/UX design, and focus on performance optimization. Continuously learning and staying updated with the latest trends, I have a proven track record of delivering diverse Android applications across various industries. I am committed to client satisfaction, offering tailored solutions, and I am open to collaboration on innovative mobile projects. Connect with me to explore how we can make an impact in the Android development landscape.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hosseinsoltaninejad&label=Profile%20views&color=0e75b6&style=flat" alt="hosseinsoltaninejad" /> </p>
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hossein-soltani-nejad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossein-soltani-nejad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hosseinsoltaninejad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossein-soltani-nejad" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10147114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10147114" height="30" width="40" /></a>
 <a href="https://instagram.com/hosseinsoltaninejad10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hosseinsoltaninejad10" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/hosseinsoltaninejad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hosseinsoltaninejad" height="30" width="40" /></a>
